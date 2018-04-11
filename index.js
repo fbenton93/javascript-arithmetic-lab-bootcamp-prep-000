@@ -18,3 +18,6 @@ function dec(a) {
   a -= 1
   return a
 }
+function makeInt(a) {
+  parseInt(a,10)
+}
